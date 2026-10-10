@@ -1,0 +1,1 @@
+If you can read this in a browser, the data folder is public. Follow step 4 in INSTALL.md to block it.

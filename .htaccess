@@ -1,0 +1,6 @@
+Options -Indexes
+DirectoryIndex index.php
+
+<FilesMatch "^(config\.php|INSTALL\.md|THIRD-PARTY-LICENSES\.txt|nginx-example\.conf)$">
+    Require all denied
+</FilesMatch>
